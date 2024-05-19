@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Front-End Developer from Turkey</h3>
 
 - 🌱 I’m currently learning **TypeScript - NextJs**
-
-- 👨‍💻 All of my projects are available at [https://www.umutdvlpr.com/](https://www.umutdvlpr.com/)
-
 - 📫 How to reach me **utumer6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
